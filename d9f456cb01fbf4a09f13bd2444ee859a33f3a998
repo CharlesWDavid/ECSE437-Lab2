@@ -33,6 +33,24 @@
       "message": "Please add content to the README.md file. It is currently empty.",
       "revId": "d9f456cb01fbf4a09f13bd2444ee859a33f3a998",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98bd4fea_62eba1eb",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1020583
+      },
+      "writtenOn": "2022-10-02T23:41:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b0ec70a3_f2a70d82",
+      "revId": "d9f456cb01fbf4a09f13bd2444ee859a33f3a998",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
